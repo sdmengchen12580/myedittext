@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout
+    tools:context=".MainActivity"
+    android:focusableInTouchMode="true"
+    android:focusable="true"
+    android:padding="5dp"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.example.administrator.myedittext.IconCenterEditText
+        style="@style/StyleEditText" android:id="@+id/icet_search">
+    </com.example.administrator.myedittext.IconCenterEditText>
+
+</RelativeLayout>
